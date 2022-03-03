@@ -112,7 +112,7 @@ params:
         #  url: "https://linktr.ee/chancechancebrown"
 
     editPost:
-        URL: "https://github.com/chancechancebrown"
+        URL: "https://github.com/chancechancebrown/website/content/"
         appendFilePath: true # to append file path to Edit link
 
     # label:

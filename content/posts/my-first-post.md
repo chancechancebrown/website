@@ -3,9 +3,8 @@ title: "Hello World"
 date: 2022-03-03T14:07:55-05:00
 draft: False
 tags:
-- Just Talking
+- Just Chatting
 categories:
-- Pleasantries
 searchHidden: true
 ---
 

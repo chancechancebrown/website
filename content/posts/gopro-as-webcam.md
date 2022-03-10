@@ -1,7 +1,7 @@
 ---
 title: "Using GoPro HERO9 Black as a Webcam"
 date: 2022-03-10T11:31:12-05:00
-draft: true
+draft: False
 tags:
 - Interviews 
 - Streaming
